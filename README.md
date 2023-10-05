@@ -1,4 +1,4 @@
-About Dawgs Nutrition Java 
+About Dawgs Nutrition in Java 
 
 Description:
 The Calorie Tracker is a user-friendly software application designed to help individuals monitor their daily caloric intake and expenditure, ultimately allowing them to calculate their net calorie balance. This program empowers users to make informed decisions about their dietary and fitness goals by providing valuable insights into their daily calorie consumption and expenditure.
