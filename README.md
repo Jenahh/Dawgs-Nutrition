@@ -19,3 +19,8 @@ User Profiles: Users can create and customize profiles.
 The Calorie Tracker is a versatile tool suitable for individuals of all ages and fitness levels. Whether you're looking to lose weight, maintain a healthy lifestyle, or gain muscle, this program helps you stay accountable and informed about your daily caloric balance.
 
 With its user-friendly interface and comprehensive features, achieving your nutritional and fitness goals becomes more attainable and manageable.
+
+
+
+https://github.com/Jenahh/Dawgs-Nutrition/assets/143299160/212cf369-41d2-42dc-981a-fcc752200421
+
