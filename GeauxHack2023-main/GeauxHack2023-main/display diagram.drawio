@@ -1,0 +1,238 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="DeZ804EFbLCe-sgw5lnZ">
+<<<<<<< HEAD
+        <mxGraphModel dx="1386" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+=======
+        <mxGraphModel dx="1130" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+>>>>>>> 5dcfff8f0f0f07f9c9e5c549489a561127bc0781
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-1" target="Gwld3rZJaEAWldqbz4TY-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-1" target="Gwld3rZJaEAWldqbz4TY-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-9" value="successful login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gwld3rZJaEAWldqbz4TY-8" vertex="1" connectable="0">
+                    <mxGeometry x="0.4923" relative="1" as="geometry">
+                        <mxPoint x="-34" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+<<<<<<< HEAD
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-1" value="login page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-2" value="registration page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+=======
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-1" value="login page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-2" value="registration page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+>>>>>>> 5dcfff8f0f0f07f9c9e5c549489a561127bc0781
+                    <mxGeometry x="20" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-7" target="Gwld3rZJaEAWldqbz4TY-10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="500" y="130"/>
+                            <mxPoint x="230" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-7" target="Gwld3rZJaEAWldqbz4TY-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-7" target="Gwld3rZJaEAWldqbz4TY-18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+<<<<<<< HEAD
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="Gwld3rZJaEAWldqbz4TY-7" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-7" value="tracking page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+=======
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-7" value="tracking page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+>>>>>>> 5dcfff8f0f0f07f9c9e5c549489a561127bc0781
+                    <mxGeometry x="440" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-10" target="Gwld3rZJaEAWldqbz4TY-27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+<<<<<<< HEAD
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-10" value="log activity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+=======
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-10" value="log activity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+>>>>>>> 5dcfff8f0f0f07f9c9e5c549489a561127bc0781
+                    <mxGeometry x="170" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-12" target="Gwld3rZJaEAWldqbz4TY-30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+<<<<<<< HEAD
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-12" value="log nutrition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+=======
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-12" value="log nutrition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+>>>>>>> 5dcfff8f0f0f07f9c9e5c549489a561127bc0781
+                    <mxGeometry x="320" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-18" target="Gwld3rZJaEAWldqbz4TY-34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+<<<<<<< HEAD
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-18" value="progress page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+=======
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-18" value="progress page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+>>>>>>> 5dcfff8f0f0f07f9c9e5c549489a561127bc0781
+                    <mxGeometry x="560" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-27" target="Gwld3rZJaEAWldqbz4TY-64" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-27" value="input calories burned" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-30" target="Gwld3rZJaEAWldqbz4TY-32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-30" value="input macros" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-32" target="Gwld3rZJaEAWldqbz4TY-37" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-32" value="calculate calories" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="500" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-34" target="Gwld3rZJaEAWldqbz4TY-72" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="740" y="700" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-34" value="today's calorie intake&amp;nbsp;&lt;br&gt;today's calories burned&lt;br&gt;&lt;br&gt;Today's Calorie Progress:&lt;br&gt;net calories / goal calories&lt;br&gt;&lt;br&gt;You are in a (surplus/deficit) of&amp;nbsp;&lt;br&gt;__ Calories" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="410" width="190" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-37" target="Gwld3rZJaEAWldqbz4TY-45" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-37" target="Gwld3rZJaEAWldqbz4TY-47" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-37" value="&quot;You have consumed ___ calories based on the given macros. Is this correct?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="600" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-45" target="Gwld3rZJaEAWldqbz4TY-67" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-45" value="add calories to total" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="730" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-47" target="Gwld3rZJaEAWldqbz4TY-52" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gwld3rZJaEAWldqbz4TY-47" target="Gwld3rZJaEAWldqbz4TY-30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="540" y="760"/>
+                            <mxPoint x="540" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-47" value="would you like to manually input calories or reinput macros?" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="730" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-49" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="690" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-51" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="688" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gwld3rZJaEAWldqbz4TY-52" target="Gwld3rZJaEAWldqbz4TY-67" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-52" value="add calories to total" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-57" value="reinput macros" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="630" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-59" value="manually input calories" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="800" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-64" value="return to tracking" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-67" value="return to tracking" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="305" y="990" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Gwld3rZJaEAWldqbz4TY-72" value="return to tracking page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="670" width="120" height="60" as="geometry"/>
+                </mxCell>
+<<<<<<< HEAD
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="goals page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="input macro goals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="calculate calories goals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="9" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="9" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&quot;Your calorie goal based on the given macros is ___ calories per day. Is this correct?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="825" y="360" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="set calorie goal value" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="490" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="460" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1100" y="210"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="would you like to manually input calories or reinput macros?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="990" y="380" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="input calories" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="490" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="manually input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1100" y="450" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="reinput&lt;br&gt;macros" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1100" y="260" width="60" height="40" as="geometry"/>
+                </mxCell>
+=======
+>>>>>>> 5dcfff8f0f0f07f9c9e5c549489a561127bc0781
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
