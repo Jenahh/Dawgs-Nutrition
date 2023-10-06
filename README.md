@@ -2,7 +2,7 @@ About Dawgs Nutrition in Java
 
 https://github.com/Jenahh/Dawgs-Nutrition/assets/143299160/212cf369-41d2-42dc-981a-fcc752200421
 
-https://docs.google.com/presentation/d/1eUHhoLI25RvHck9VAosircvdiWQc_ZvUoyBDt4emg0c/edit?usp=sharing
+[Uploading Dawgs Nutrition - Ben, Kai, Jenah, Pdawg.pdf…]()
 
 Welcome to Dawgs Nutrition, a user-friendly software application designed to help individuals monitor their daily caloric intake and expenditure, ultimately allowing them to calculate their net calorie balance. This program empowers users to make informed decisions about their dietary and fitness goals by providing valuable insights into their daily calorie consumption and expenditure.
 
