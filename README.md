@@ -9,7 +9,7 @@ My experience in the SASE 2023 Hackathon with my team, "The Dawgsss", was quite 
 
 We presented our project in front of the judges. It was a culmination of hard work and a chance to demonstrate the unique aspects of our project. Even though we were in the beginner tier and faced front-end challenges as none of us had worked in that area before, our dedication shone through in our presentation.
 
-While we may not have developed trhe most glamorous app ever, we certainly leared very much from this experience. This hackathon was not just about the competition; it was about personal and professional growth, and "The Dawgsss" embraced every moment of the journey.
+While we may not have developed trhe most glamorous app ever, we certainly leared very much from this experience. This hackathon was not just about the competition; it was about personal and professional growth, and we did our very best to embrace every moment of the journey.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
